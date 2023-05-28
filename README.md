@@ -1,12 +1,12 @@
 ---
-description: Dokumentace edukační platformy ve virtuální realitě EDVR
+Dokumentace edukační platformy ve virtuální realitě EDVR
 ---
 
 # EDVR Docs
 
 ## YouTube ukázka
 
-{% embed url="https://youtu.be/qy11Fpmh61c" %}
+https://youtu.be/qy11Fpmh61c
 
 ## Fotky
 
