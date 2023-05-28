@@ -5,7 +5,7 @@ Dokumentace edukační platformy ve virtuální realitě EDVR
 # EDVR Docs
 
 ## YouTube ukázka
-
+❗ Neobsahuje poslední verzi aktivity data labeling
 https://youtu.be/qy11Fpmh61c
 
 ## Fotky
